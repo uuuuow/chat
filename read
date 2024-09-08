@@ -1,1 +1,5 @@
+此项目为基于muduo网络库的集群聊天服务器项目
 
+bin中为执行文件，build为makefile文件，include为库头文件，src为cpp实现代码
+
+thirdparty为第三方库
